@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086605847629",
+    "firebase_url": "https://fridgeinventory-a8578.firebaseio.com",
+    "project_id": "fridgeinventory-a8578",
+    "storage_bucket": "fridgeinventory-a8578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086605847629:android:7adb11fb92c7291fdc0004",
+        "android_client_info": {
+          "package_name": "com.example.assignmentpart2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086605847629-1s2dot3lpt4m3thkd0g3uhq7fd1qsniu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assignmentpart2",
+            "certificate_hash": "f23e23ebf7159fa101d37c628e9a22eb92e5a12f"
+          }
+        },
+        {
+          "client_id": "1086605847629-vie5guubn88v6vggenuk162spjhbgm23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmWrk37h9rwSsaYRM67PfWrJK4EVtuUKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086605847629-vie5guubn88v6vggenuk162spjhbgm23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
